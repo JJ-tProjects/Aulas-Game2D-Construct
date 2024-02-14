@@ -1,0 +1,1 @@
+Este projeto teve início no Construct 3 e foi posteriormente migrado para o Construct 2. Essa decisão foi motivada pela maior disponibilidade de recursos de codificação na versão 2 em comparação com a versão 3.
