@@ -1,0 +1,6 @@
+- Implementar primeiro inimigo
+- Animações Idle 11 e Dead 15
+- Behaviors: Fade e Platform
+- Variaveis: Vida, Dano do player
+- Inimigo recebe dano
+- Inimigo morre
